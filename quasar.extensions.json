@@ -1,0 +1,8 @@
+{
+  "@vueauth/auth": {
+    "authProvider": {
+      "identifier": "supabase",
+      "packageName": "@vueauth/supabase"
+    }
+  }
+}
